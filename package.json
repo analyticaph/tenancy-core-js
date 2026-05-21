@@ -1,5 +1,5 @@
 {
-  "name": "@schoolplatform/tenancy-core-js",
+  "name": "@analyticaph/tenancy-core-js",
   "version": "0.1.0",
   "description": "Shared React/TS utilities for multi-tenant school platform apps",
   "main": "src/index.ts",
